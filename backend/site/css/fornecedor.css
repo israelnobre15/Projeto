@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+.fixo {
+    background: red;
+    height: 104px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.relativo1{
+    position: relative;
+    top: 15px;
+    left: 39px;
+}
+.relativo2{
+    position: relative;
+    bottom: 60px;
+    left: 350px;
+}
